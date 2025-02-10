@@ -13,6 +13,10 @@ button {
     background-color: white;
     width: 300px;
 }
+button:hover {
+    color: black;
+    background-color: white;
+}
 
 a {
     color: white;
